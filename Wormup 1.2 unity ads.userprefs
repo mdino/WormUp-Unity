@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Wormup 1.2 unity ads 2/Assets/skripte/GeneratorScript.cs">
+    <Files>
+      <File FileName="../Wormup 1.2 unity ads 2/Assets/skripte/AdmobBanner.cs" Line="1" Column="1" />
+      <File FileName="../Wormup 1.2 unity ads 2/Assets/skripte/AndroidQuit.cs" Line="1" Column="1" />
+      <File FileName="../Wormup 1.2 unity ads 2/Assets/skripte/bouncemusic.cs" Line="1" Column="1" />
+      <File FileName="../Wormup 1.2 unity ads 2/Assets/skripte/CameraFollow.js" Line="1" Column="1" />
+      <File FileName="../Wormup 1.2 unity ads 2/Assets/skripte/CameraPREdest.js" Line="1" Column="1" />
+      <File FileName="../Wormup 1.2 unity ads 2/Assets/skripte/cameraprerenred.js" Line="1" Column="1" />
+      <File FileName="../Wormup 1.2 unity ads 2/Assets/skripte/ChangeScene.cs" Line="1" Column="1" />
+      <File FileName="../Wormup 1.2 unity ads 2/Assets/skripte/ChangeSceneScore.cs" Line="1" Column="1" />
+      <File FileName="../Wormup 1.2 unity ads 2/Assets/skripte/collor.cs" Line="1" Column="1" />
+      <File FileName="../Wormup 1.2 unity ads 2/Assets/skripte/dontdesstti.cs" Line="1" Column="1" />
+      <File FileName="../Wormup 1.2 unity ads 2/Assets/skripte/ExampleClass.cs" Line="1" Column="1" />
+      <File FileName="../Wormup 1.2 unity ads 2/Assets/skripte/finish.cs" Line="1" Column="1" />
+      <File FileName="../Wormup 1.2 unity ads 2/Assets/skripte/GameAudio.cs" Line="1" Column="1" />
+      <File FileName="../Wormup 1.2 unity ads 2/Assets/skripte/GeneratorScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
